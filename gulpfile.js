@@ -10,7 +10,7 @@ const minimist = require('minimist');
 const inquirer = require('inquirer');
 const chalk = require('chalk');
 
-// todo: appid projectName格式化
+// todo: 1. appid projectName格式化
 // 命令行参数获取
 let argv = minimist(process.argv.slice(2));
 // meta.json 文件读取

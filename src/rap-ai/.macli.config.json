@@ -2,5 +2,5 @@
     "name": "rap-ai",
     "pagesPath": "pages",
     "compoPath": "components",
-    "appJsonPath": "bootstrap/app.js"
+    "appJsonPath": "bootstrap/app.json"
 }

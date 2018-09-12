@@ -81,3 +81,5 @@ package-lock.json
 # tiny img source files
 doc/img/src/
 
+# ma-cli configurations
+.macli.config.json
