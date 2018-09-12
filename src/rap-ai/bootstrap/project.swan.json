@@ -1,4 +1,4 @@
 {
-    "appid": "",
+    "appid": "{{appid}}",
     "libversion": ""
 }

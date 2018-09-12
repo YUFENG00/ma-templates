@@ -1,6 +1,6 @@
 {
-    appid: 0,
+    appid: '{{appid}}',
     description: '<mini program description>',
-    projectname: '<min program name>',
+    projectname: '{{projectName}}',
 	miniprogramRoot: './dist'
 }

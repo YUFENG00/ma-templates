@@ -4,6 +4,7 @@
         "pages/index/index"
     ],
     "window": {
+        "navigationBarTitleText":"{{projectName}}",
         "navigationBarBackgroundColor": "#211E2E",
         "navigationBarTextStyle": "white",
         "backgroundTextStyle": "light",
